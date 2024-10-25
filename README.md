@@ -1,4 +1,4 @@
-# 🎮 Typing Attack Game
+# 🎮 Typing Attack Game for learning "kivy library"
 
 A fast-paced typing game where players defend against falling words by typing them correctly. Build your combo, collect power-ups, and aim for the highest score!
 
