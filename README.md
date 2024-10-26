@@ -171,17 +171,6 @@ python main.py
 - [Kivy Examples](https://github.com/kivy/kivy/tree/master/examples)
 - [Kivy Garden](https://github.com/kivy-garden)
 
-## 🤝 Contributing
-
-Feel free to use this project as a learning resource or extend it with your own features. Some ideas for learning exercises:
-- Add new power-up types
-- Implement different game modes
-- Create custom animations
-- Add multiplayer features
-- Implement new scoring systems
-
 ## ⚠️ Note
 
 This project is designed for educational purposes and demonstrates various Kivy features. The code is thoroughly commented to explain key concepts and implementation details.
-
-For questions or suggestions about learning Kivy through this project, please contact the developer.
